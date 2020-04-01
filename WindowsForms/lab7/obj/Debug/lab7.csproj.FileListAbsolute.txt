@@ -1,0 +1,10 @@
+C:\Users\Shendu\Desktop\интерфейсы\lab7\WindowsForms\lab7\bin\Debug\lab7.exe.config
+C:\Users\Shendu\Desktop\интерфейсы\lab7\WindowsForms\lab7\bin\Debug\lab7.exe
+C:\Users\Shendu\Desktop\интерфейсы\lab7\WindowsForms\lab7\bin\Debug\lab7.pdb
+C:\Users\Shendu\Desktop\интерфейсы\lab7\WindowsForms\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\Shendu\Desktop\интерфейсы\lab7\WindowsForms\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\Shendu\Desktop\интерфейсы\lab7\WindowsForms\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\Shendu\Desktop\интерфейсы\lab7\WindowsForms\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+C:\Users\Shendu\Desktop\интерфейсы\lab7\WindowsForms\lab7\obj\Debug\lab7.exe
+C:\Users\Shendu\Desktop\интерфейсы\lab7\WindowsForms\lab7\obj\Debug\lab7.pdb
+C:\Users\Shendu\Desktop\интерфейсы\lab7\WindowsForms\lab7\obj\Debug\lab7.Form2.resources
